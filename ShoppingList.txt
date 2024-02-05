@@ -4,3 +4,5 @@ bananas
 carrots
 cherries
 cereal
+cucumbers
+beans
