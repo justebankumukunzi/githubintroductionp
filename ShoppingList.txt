@@ -3,3 +3,4 @@ applres
 bananas
 carrots
 cherries
+cereal
